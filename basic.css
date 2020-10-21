@@ -1,0 +1,16 @@
+p,div{
+    color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Courier New','Courier New', Courier, monospace;
+}
+.header{
+    color: blue;
+}
+
+#head{
+    text-transform: uppercase;
+    margin: 100px;
+    border: 2px solid red;
+    padding: 10px;
+}
